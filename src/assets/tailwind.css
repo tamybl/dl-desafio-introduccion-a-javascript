@@ -1,0 +1,19 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.mb-4 {
+    margin-bottom: 1rem;
+}
+.mt-4 {
+    margin-top: 1rem;
+}
+.text-red-600 {
+    color: red;
+    font-weight: 400;
+    font-size: 0.875rem;
+}
+.text-2xl {
+    font-size: 2rem;
+
+}
